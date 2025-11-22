@@ -10,7 +10,7 @@ const app = express();
 // ---------- CORS setup ----------
 // Default allowed origins (deployed frontend + localhost dev)
 const DEFAULT_ALLOWED = [
-  'https://assignment-tinylink-frontend.onrender.com',
+  'https://assigment-tinylink-frontend.onrender.com',
   'http://localhost:3000'
 ];
 
